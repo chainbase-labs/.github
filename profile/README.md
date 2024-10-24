@@ -6,7 +6,7 @@
 </p>
 
 <h2 align="center">
-  The Omni Chain Data Network
+  The Omnichain Data Network
 </h2>
 
 <div align="center">
